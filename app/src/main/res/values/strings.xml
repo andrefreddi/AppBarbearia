@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppBarber</string>
+    <string name="button_login">Entrar com email e senha</string>
+    <string name="entrar_com">Entrar com:</string>
+    <string name="login_email">Email</string>
+    <string name="login_senha">Senha</string>
+    <string name="button_acess">Entrar</string>
+    <string name="button_pgCreate">Criar nova conta</string>
+    <string name="button_recover">Esqueceu a senha?</string>
+</resources>
